@@ -1,0 +1,11 @@
+Model path: /content/drive/MyDrive/best_densenet201_finetuned_sgd.keras
+Validation samples: 660
+
+              precision    recall  f1-score   support
+
+      benign       0.92      0.88      0.90       360
+   malignant       0.86      0.90      0.88       300
+
+    accuracy                           0.89       660
+   macro avg       0.89      0.89      0.89       660
+weighted avg       0.89      0.89      0.89       660
